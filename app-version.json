@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "2.7.2",
+  "versionCode": 33,
+  "versionName": "2.7.3",
   "title": "Bondok Perfume Update",
-  "message": "Navigation sizing improvements and update manager refinements.",
-  "apkUrl": "https://github.com/toqafahmy66-star/bondok-customer-updates/releases/download/v2.7.2/BONDOK.Customer.V2.7.2.apk",
+  "message": "Direct in-app updater improvements.",
+  "apkUrl": "https://github.com/toqafahmy66-star/bondok-customer-updates/releases/download/v2.7.3/BONDOK-CUSTOMER-V2.7.3.apk",
   "required": false
 }
