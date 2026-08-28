@@ -1,8 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "2.6.3",
-  "title": "Bondok Perfume Update",
-  "message": "A new Bondok Perfume version is available.",
-  "apkUrl": "https://github.com/toqafahmy66-star/bondok-customer-updates/releases/download/v2.6.3/BONDOK-CUSTOMER-V2.6.3.apk",
+  "versionCode": 30,
+  "versionName": "2.7.0",
+  "message": "A new BONDOK Perfume version is available.",
+  "apkUrl": "رابط الـAPK من الـRelease",
   "required": false
 }
